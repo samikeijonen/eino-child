@@ -1,0 +1,1 @@
+Place page templates in this directory.
